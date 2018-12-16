@@ -22,7 +22,7 @@ Else, download the zip file and unpack by clicking the green "Clone and download
 7. Click the play button to start the program
 
 ## Using The Program
-1. Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See ***Open The Project Files*** for additional information)
+1. Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See [Open The Project Files](#open-the-project-files) for additional information)
 2. Press the ***Run*** button or click `Sketch > Run`
 3. Press `L` to Lock/Unlock the cube
 4. Press `Space` to initially scramble the cube
@@ -31,7 +31,7 @@ Else, download the zip file and unpack by clicking the green "Clone and download
 ## Modifying The Program
 
 ### Changing Cube Size
-Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See ***Open The Project Files*** for additional information)
+Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See [Open The Project Files](#open-the-project-files) for additional information)
 
 On line 8, modify the variable called `numberOfSides`
 
@@ -54,7 +54,7 @@ int numberOfSides = 3;//<<< change this to change the size of the cube
 ```
 
 ### Changing Window Size
-Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See ***Open The Project Files*** for additional information)
+Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See [Open The Project Files](#open-the-project-files) for additional information)
 
 On line 96, modify the function called `size(1000, 1000, P3D);`
 
