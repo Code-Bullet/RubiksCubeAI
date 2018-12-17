@@ -19,7 +19,7 @@ Else, download the zip file and unpack by clicking the green "Clone and download
 4. Inside the `RubiksCubeAI` folder there should be another called `RubiksCube`
 5. Inside the `RubiksCube` folder click on the file called `RubiksCube.pde`
 6. You should now see `RubiksCube.pde` as well as the rest of the files opened up in the Processing application
-7. Click the play button to start the program
+7. Press the ***Run*** button or click `Sketch > Run`
 
 ## Using The Program
 1. Open `RubiksCube.pde` in the Processing application. It is located at. `RubiksCubeAI/RubiksCube/RubiksCube.pde`. (See [Open The Project Files](#open-the-project-files) for additional information)
