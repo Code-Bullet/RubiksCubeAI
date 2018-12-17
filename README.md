@@ -69,7 +69,7 @@ Modify these to match your screen resolution.
 
 If you are unsure of your screen resolution go to: http://whatismyscreenresolution.net/
 
-If your screen resolution is 1980x1080 modify line 96 like so:
+If your screen resolution is 1920x1080 modify line 96 like so:
 
 ``` java
   size(1920, 1080, P3D);
