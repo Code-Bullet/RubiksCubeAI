@@ -5,7 +5,7 @@
 //dont do even sized cubes (it wont work)
 //Have fun
 
-int numberOfSides = 25;//<<< change this to change the size of the cube
+int numberOfSides = 13;//<<< change this to change the size of the cube
 float cubeSpeed = PI/20.0; //<<< this is the speed that the cube rotates 
 
 /*
