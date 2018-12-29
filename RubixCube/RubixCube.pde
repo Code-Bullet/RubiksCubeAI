@@ -90,8 +90,8 @@ boolean enableMouseY = true;
 boolean enableSpin = false;
 boolean autoShow = false;
 boolean repeatSolves = false;
-int solveCounterThing =0;
-int startTime =0;
+int solveCounterThing = 0;
+int startTime = 0;
 void setup() {
   size(1000, 1000, P3D);
   //size(2000, 2000, P3D); //if you've got a 4K monitor then you can uncomment this out to have a bigger window, also make sure to comment out the line before 
