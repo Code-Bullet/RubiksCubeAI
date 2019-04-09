@@ -382,16 +382,16 @@ void keyPressed() {
   float spinVal = PI/2;
   switch(keyCode) {
   case RIGHT:
-    yRotationKey +=spinVal;
+    yRotationKeyTarget +=spinVal;
     break;
   case LEFT:
-    yRotationKey -=spinVal;
+    yRotationKeyTarget -=spinVal;
     break;
   case UP:
-    xRotationKey +=spinVal;
+    xRotationKeyTarget +=spinVal;
     break;
   case DOWN:
-    xRotationKey -=spinVal;
+    xRotationKeyTarget -=spinVal;
     break;
   }
 }
